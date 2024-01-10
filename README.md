@@ -33,6 +33,12 @@ The Wikipedia Article Summarizer is a Python project that utilizes Selenium for 
 3. Click the "Search" button to fetch and display the article summary.
 
 ## Screenshots
+![Screenshot (9)](https://github.com/Siddarth6/wikipedia-article-summarizer/assets/103209785/1294f787-3bf0-45fa-a002-076f2e45e390)
+
+![Screenshot (10)](https://github.com/Siddarth6/wikipedia-article-summarizer/assets/103209785/abab5f02-3930-4fd3-909f-765da7c05fff)
+
+![Screenshot (11)](https://github.com/Siddarth6/wikipedia-article-summarizer/assets/103209785/7aa40c86-a097-4502-bc43-a53cac93f3f2)
+
 
 
 
