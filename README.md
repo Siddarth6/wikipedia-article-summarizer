@@ -9,6 +9,7 @@ The Wikipedia Article Summarizer is a Python project that utilizes Selenium for 
 - **Link or Keyword Input**: Accepts both Wikipedia article links and keywords for searching.
 
 ## Prerequisites
+- Jupyter Notebook
 - Selenium
 - GeckoDriver
 - BeautifulSoup
@@ -27,7 +28,7 @@ The Wikipedia Article Summarizer is a Python project that utilizes Selenium for 
 ## Usage
 1. Run python script:
    ``` cmd
-   python WikipediaArticleSummarizer.ipynb
+   jupyter nbconvert --execute --to notebook --inplace WikipediaArticleSummarizer.ipynb
    ```
 2. Enter a Wikipedia article link or keyword in the GUI.
 3. Click the "Search" button to fetch and display the article summary.
